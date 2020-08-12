@@ -7,6 +7,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 
+## I'm a student of Computer Science and a developer !! Just starting to contribute to Open Source Projects. Currently working on react native... 
+
 ### Connect with me:
 
 [<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danish-ali-423806184/)
