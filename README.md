@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danish-ali-423806184/)
+[<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](danishali0051@gmail.com)
 [<img align="left" alt="danish_khanzaada | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/danish_khanzaada/?hl=en)
 
 <br />
