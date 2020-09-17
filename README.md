@@ -2,17 +2,18 @@
 
 ## I'm a Developer & Learning Enthusiast!
 
-- 🔭 I’m currently working on a React Native!
+- 🔭 I’m currently working on a React Native Making Mobile Apps!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
-
+- :boy: 
 ## I'm a student of Computer Science and a developer !! Just starting to contribute to Open Source Projects. Currently working on react native... 
 
 ### Connect with me:
-
+[<img align="left" alt="danishali | Dev.to" width="22px" src="https://camo.githubusercontent.com/5db862b15e660451b524382c77f60cbd49f176f9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" />](https://dev.to/danishkhanzaada)
+[<img align="left" alt="danishali | Medium" width="22px" src="https://camo.githubusercontent.com/9678a5b9f4dd1ed30384f24f6a290a8e286bf9e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" />](https://medium.com/@danishkhanzaada)
 [<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danish-ali-423806184/)
-[<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](danishali0051@gmail.com)
+[<img align="left" alt="danishali | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](danishali0051@gmail.com)
 [<img align="left" alt="danish_khanzaada | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/danish_khanzaada/?hl=en)
 
 <br />
