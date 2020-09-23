@@ -2,7 +2,7 @@
 
 ## I'm a Developer & Learning Enthusiast!
 
-- 🔭 I’m currently working on a React Native Making Mobile Apps!
+- 🔭 I’m currently working on a React Native Making Mobile Apps & Api Development using Node.js & Express.js as server languages!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
