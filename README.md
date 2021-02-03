@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a React Native Making Mobile Apps & Api Development using Node.js & Express.js as server languages!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn TDD Development, Write More Blogs, Contribute to Open source projects.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
 ## I'm a student of Computer Science and a developer !! Just starting to contribute to Open Source Projects. Currently working on react native... 
