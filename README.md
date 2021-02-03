@@ -21,6 +21,10 @@
 <br />
 
 ## Projects 
+
+### JS 100 Algorithms Challenge (Check out repo!)
+    * Its a practice repo where I try to solve algorithms with js/ts.
+
 ### React Native Projects
   * Lets Share
     It is a sharing economy platform, which is developed by using react native, server, backend, & rest api's by using node.js and database by using MongoDB.
