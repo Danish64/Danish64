@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Learn TDD Development, Write More Blogs, Contribute to Open source projects.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
-## I'm a student of Computer Science and a developer !! Just starting to contribute to Open Source Projects. Currently working on react native... 
+## Contribute to Open Source Projects || React Native Developer || CallStack Fan. Currently working on react native... 
 
 ### Connect with me:
 [<img align="left" alt="danishali | Dev.to" width="22px" src="https://camo.githubusercontent.com/5db862b15e660451b524382c77f60cbd49f176f9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" />](https://dev.to/danishkhanzaada)
