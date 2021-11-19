@@ -2,7 +2,7 @@
 
 ## I'm a Developer & Learning Enthusiast!
 
-- 🔭 I’m currently working on a React Native Making Mobile Apps & Api Development using Node.js & Express.js as server languages!
+- 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux.
 - 🌱 I’m currently learning everything, writing tech blogs 🤣
 - 🥅 2021 Goals: Learn TDD Development, Write More Blogs, Contribute to Open source projects.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
