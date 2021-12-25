@@ -3,7 +3,6 @@
 ## I'm a Developer & Learning Enthusiast!
 
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
-- 🌱 I’m currently learning everything, writing tech blogs 🤣
 - 🥅 2022 Goals: Write a dynamic bidirectional ui component library for react native -> RN-Ritle
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
