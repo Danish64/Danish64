@@ -3,10 +3,15 @@
 ## I'm a Developer & Learning Enthusiast!
 
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
-- 🥅 2022 Goals: Write a dynamic bidirectional ui component library for react native -> RN-Ritle
+- 🥅 2022: 
+   - Write a dynamic bidirectional ui component library for react native -> RN-Ritle
+   - Learning Typescript, React Native Animations, CI/CD, JEST, RNTL, Detox, React Native Security.
+   - Try to implement JSI and other new architecture things.
+   - Maybe Learnings - NextJS, PRISMA 2, Postgresql, Continue learning Node.js, Express.js, Smart Contracts.
+   - Hope to do - Start a youtube channel targeting React Native Intermediate to Advance concepts.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
-## Contribute to Open Source Projects || React Native Developer || CallStack Fan. Currently working on react native... 
+## Contribute to Open Source Projects || React Native Developer || Web Developer. 
 
 ### Connect with me:
 [<img align="left" alt="danishali | Dev.to" width="22px" src="https://camo.githubusercontent.com/5db862b15e660451b524382c77f60cbd49f176f9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" />](https://dev.to/danishkhanzaada)
@@ -17,18 +22,6 @@
 
 <br />
 
-<br />
-
-## Projects 
-
-### JS 100 Algorithms Challenge (Check out repo!)
-    * Its a practice repo where I try to solve algorithms with js/ts.
-
-### React Native Projects
-  * Lets Share
-    It is a sharing economy platform, which is developed by using react native, server, backend, & rest api's by using node.js and database by using MongoDB.
-    
-    
 <br />
 
 ### Languages and Tools:
