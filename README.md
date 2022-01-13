@@ -5,6 +5,7 @@
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
 - 🥅 2022: 
    - Write a dynamic bidirectional ui component library for react native -> RN-Ritle
+   - Personal Project - Simple Expense Tracker App for businesses and individuals using React Native and Firebase.
    - Learning Typescript, React Native Animations, CI/CD, JEST, RNTL, Detox, React Native Security.
    - Try to implement JSI and other new architecture things.
    - Maybe Learnings - NextJS, PRISMA 2, Postgresql, Continue learning Node.js, Express.js, Smart Contracts.
