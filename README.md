@@ -3,7 +3,7 @@
 ## I'm a Developer & Learning Enthusiast!
 
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
-- 🥅 2022: 
+- 🥅 2023: 
    - Personal Site: danishkhanzaada.com
    - Learning Typescript, React Advance, CI/CD, JEST, RTL, Detox, React Native Security.
    - Try to implement JSI and other new architecture things.
