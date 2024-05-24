@@ -5,10 +5,8 @@
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
 - 🥅 2024: 
    - Personal Site: danishkhanzaada.com
-   - Learning Typescript, React Advance, CI/CD, JEST, RTL, Detox, React Native Security.
-   - Try to implement JSI and other new architecture things.
-   - Maybe Learnings - NextJS, PRISMA 2, Postgresql, Continue learning Node.js, Express.js, Smart Contracts.
-   - Started - Blogging targeting React Intermediate to Advance concepts.
+   - Maybe Learnings - Postgresql, Smart Contracts, Three.js.
+   - Writes Blogs on React Intermediate to Advance concepts.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
 ## Contribute to Open Source Projects || Frontend Engineer. 
