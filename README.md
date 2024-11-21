@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
 - 🥅 2024: 
    - Personal Site: danishkhanzaada.com
-   - Maybe Learnings - Postgresql, Smart Contracts, Three.js.
+   - Web3.js, Ether.js, Smart Contracts, Solidity.
    - Writes Blogs on React Intermediate to Advance concepts.
 - ⚡ Fun fact: I love to learn about Human Psychology & Human History
 - :boy: 
