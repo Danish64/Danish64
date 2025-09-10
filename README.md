@@ -1,7 +1,7 @@
 # Hi, I'm Danish 👋  
 
-**Full Stack Engineer** —  **Concepts** Over Technologies.  
-For me, good engineering is about clarity of design, predictable systems, and user experience that feels effortless.  
+**Full Stack Engineer** —  Concepts Over Technologies.  
+I build systems end-to-end with a focus on performance, resilience, and user experience.   
 
 ---
 
