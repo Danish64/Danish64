@@ -42,5 +42,11 @@ I build systems end-to-end with a focus on performance, resilience, and user exp
 - CI/CD with GitHub Actions, AWS ECS (Fargate), Docker, PM2 for process management.  
 - Monitoring & alerting — Bash scripts + metrics (CPU, memory, queues, logs). 
 
-📊 **Commit Graph**  
+## 📈 My GitHub Activity  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danish64&theme=radical)  
+
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish64&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish64&layout=compact&theme=radical)  
+
