@@ -1,35 +1,46 @@
-### Hi there, I'm Danish Ali👋
+# Hi, I'm Danish 👋  
 
-## I'm a Developer & Learning Enthusiast!
+**Full Stack Engineer** —  **Concepts** Over Technologies.  
+For me, good engineering is about clarity of design, predictable systems, and user experience that feels effortless.  
 
-- 🔭 I’m currently working as a front end developer, Vanilla JS | React | React Native | Redux | TS.
-- 🥅 2024: 
-   - Personal Site: danishkhanzaada.com
-   - Web3.js, Ether.js, Smart Contracts, Solidity.
-   - Writes Blogs on React Intermediate to Advance concepts.
-- ⚡ Fun fact: I love to learn about Human Psychology & Human History
-- :boy: 
-## Contribute to Open Source Projects || Frontend Engineer. 
+---
 
-### Connect with me:
-[<img align="left" alt="danishali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danish-ali-423806184/)
-[<img align="left" alt="dali | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](dali@danishkhanzaada.com)
-<br />
+### 🛠 Core Focus  
+- **Frontend:** React/Next.js, TypeScript.
+- **Backend:** Node/Express/Hono - GraphQL/REST/gRPC APIs, WebSockets, SSE.
+- **Databases:** SQL/Postgres/MongoDB.
+- **System Design:** Learning System Designs Fundamentals.
+- **Deployments** CI/CD with GitHub Actions, AWS ECS (Fargate), S3, CloudFront, EC2,  Docker, PM2 for process management.
+- **Monitoring & Reliability:** AWS CloudWatch, Sentry, Replay, PM2 — For observability and feedbacks.  
 
-<br />
+---
 
-### Languages and Tools:
+### 🔍 How I Work  
+- **50% Communication** — align, document, and make sure teams understand the *why*.  
+- **20% Implementation** — write maintainable code that respects abstractions.  
+- **30% Testing & Observability** — Playwright, Jest, Supertest, k6, AWS CloudWatch, Sentry with Replay, to see what users actually experience.  
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()[<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()[<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()[<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()[<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />]()[<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redux.svg" />]()
+---
 
-<br />
-<br />
+### 📂 Highlights  
+- Built **trading systems** with live execution updates and market movement alerts.  
+- Helped engineered a **2D home-mapping canvas tool** with Pixi.js, handling complex layouts and interactions with custom types.  
+- Developed **Next.js blogs with SSR**, improving reach and SEO visibility.  
 
-#### Folowings
+---
 
-[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+### 🚀 Frontend Expertise  
+- React/Next.js specialist — from **Webpack bundling** to **advanced component design patterns** (Compound Components, HOC, Render Props).  
+- Performance-driven — code splitting, lazy loading, route prefetching, and DevTools-first debugging.  
+- State management with **SWR, React Query, Zustand, XState** — keeping data flows predictable and fast both server side states and client side.  
+- Browser-level understanding — optimizing **LCP, CLS, FID**; crafting smooth **60fps animations** with FLIP & Framer Motion.  
+- Accessibility & SEO — semantic HTML, ARIA, logical tab orders, skip links.  
 
-<br />
-<br />
+### ⚙️ Backend & Systems  
+- REST/gRPC APIs, WebSockets, SSE — designed for scale and real-time feedback.  
+- PostgreSQL tuning, caching strategies.  
+- CI/CD with GitHub Actions, AWS ECS (Fargate), Docker, PM2 for process management.  
+- Monitoring & alerting — Bash scripts + metrics (CPU, memory, queues, logs). 
+
+📊 **Commit Graph**  
+![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish64&show_icons=true&theme=radical)  
