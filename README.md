@@ -33,7 +33,7 @@ I build systems end-to-end with a focus on performance, resilience, and user exp
 - React/Next.js specialist — from **Webpack bundling** to **advanced component design patterns** (Compound Components, HOC, Render Props).  
 - Performance-driven — code splitting, lazy loading, route prefetching, and DevTools-first debugging.  
 - State management with **SWR, React Query, Zustand, XState** — keeping data flows predictable and fast both server side states and client side.  
-- Browser-level understanding — optimizing **LCP, CLS, FID**; crafting smooth **60fps animations** with FLIP & Framer Motion.  
+- Browser understanding — optimizing web vitals; crafting smooth **60fps animations** with FLIP technique.  
 - Accessibility & SEO — semantic HTML, ARIA, logical tab orders, skip links.  
 
 ### ⚙️ Backend & Systems  
